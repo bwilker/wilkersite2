@@ -28,8 +28,8 @@ user_groups:
 - Visitors
 ---
 
-I'm a professor of political science at SUNY Oneonta who has interests in law and courts. He teaches a range of public law courses--Law Courts and Politics, Civil Rights and Liberties, and American Constitutional Development--US Government and research methods. I am also interested in R and data visualization. 
+I'm a professor of political science at [SUNY Oneonta](https://suny.oneonta.edu/) who has interests in law and courts. He teaches a range of public law courses--Law Courts and Politics, Civil Rights and Liberties, and American Constitutional Development--US Government and research methods. I am also interested in R and data visualization. 
 
-Born in Wichita, Kansas and raised in Texas, I have lived in upstate New York for the last 30-plus years. I enjoy cycling and wandering around taking photos with my wife Jennifer. I am the board of the Schenectady Greenmarket. Come visit us on Sundays from 10am - 2pm. 
+Born in Wichita, Kansas and raised in Texas, I have lived in upstate New York for the last 30-plus years. I enjoy cycling and wandering around taking photos with my wife Jennifer. I am the board of the [Schenectady Greenmarket](https://www.schenectadygreenmarket.com/). Come visit us on Sundays from 10 a.m. - 2 p.m. 
 
 On wilkersite, I hope to explore some of my interests with occasional posts and information about my teaching.  
