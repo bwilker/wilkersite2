@@ -3,4 +3,8 @@
 .RData
 .Ruserdata
 public/
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+>>>>>>> aba0ab992d96998e16b9f31551bcf02ca23d95c6
