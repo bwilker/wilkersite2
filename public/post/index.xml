@@ -39,15 +39,5 @@ Figure 1: Interest indicators by the media and the general public.
 </description>
     </item>
     
-    <item>
-      <title>A test post</title>
-      <link>/post/a-test-post/</link>
-      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/a-test-post/</guid>
-      <description>&lt;p&gt;This is a test post to see how to create a post.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
