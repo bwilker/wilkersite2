@@ -40,6 +40,12 @@
   </url>
   
   <url>
+    <loc>/tags/courts/</loc>
+    <lastmod>2019-07-23T11:17:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/gauging-public-interest-in-the-death-of-justice-john-paul-stevens/</loc>
     <lastmod>2019-07-23T11:17:34-04:00</lastmod>
   </url>
@@ -56,14 +62,14 @@
   </url>
   
   <url>
-    <loc>/post/a-test-post/</loc>
-    <lastmod>2019-07-20T19:09:05-04:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-23T11:17:34-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/post/a-test-post/</loc>
     <lastmod>2019-07-20T19:09:05-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

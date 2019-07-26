@@ -5,7 +5,7 @@ date: '2019-07-23'
 slug: gauging-public-interest-in-the-death-of-justice-john-paul-stevens
 categories:
   - SCOTUS
-tags: []
+tags: [Courts]
 subtitle: ''
 summary: ''
 authors: []
