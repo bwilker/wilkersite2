@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My teaching and research interests include law and courts and American politics. I am interested in data visualization.
+bio: Political scientist. College professor. 
 
 email: "mail to: bwilkerson@fastmail.com"
 name: Bill Wilkerson
