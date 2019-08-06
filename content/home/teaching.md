@@ -18,8 +18,8 @@ weight = 30
 
 **2019-2020 academic year:**  
 
-POLS 121: US Government (fall)  
-POLS 245: Law Courts and Politics (fall)  
+POLS 121: US Government (fall) [syllabus](files/121_f19_syllabus.pdf)<br>
+POLS 245: Law Courts and Politics (fall) [syllabus](files/245_f19_syllabus.pdf)<br>  
 POLS 200: Approaches to Political Science (spring)  
 POLS 398: Seminar in Political Science (spring)  
 Internship coordinator (fall and spring)  
@@ -28,10 +28,10 @@ _Note: course release for serving as Presiding Officer for [College Senate](http
 
 **2018-2019 academic year:**  
 
-POLS 121: US Government (fall)  
-POLS 200: Approaches to Political Science (fall & spring)  
-POLS 241: American Constitutional Development (fall)  
-POLS 243: Civil Rights and Liberties (spring)  
+POLS 121: US Government (fall) [syllabus](files/121_f18_syllabus.pdf)<br>
+POLS 200: Approaches to Political Science (fall & spring)  [syllabus](files/200_s19_syllabus.pdf)<br>
+POLS 241: American Constitutional Development (fall) [syllabus](files/241_f18_syllabus.pdf)<br>
+POLS 243: Civil Rights and Liberties (spring) [syllabus](files/243_s19_syllabus.pdf)<br>
 Internship coordinator (fall and spring)  
 
 _Note: course release for serving as Presiding Officer for College Senate spring semester_
